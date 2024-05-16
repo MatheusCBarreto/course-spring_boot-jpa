@@ -3,7 +3,6 @@ package com.educando_web.course.services;
 import com.educando_web.course.entities.Category;
 
 import com.educando_web.course.repositories.CategoryRepository;
-import com.educando_web.course.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
